@@ -20,3 +20,8 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository to your local machine using:
 
+todo-list/
+│
+├── index.html       # Main HTML file
+├── index.css        # CSS file for styling
+└── index.js         # JavaScript file for functionality
